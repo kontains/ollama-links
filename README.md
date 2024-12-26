@@ -2,6 +2,35 @@
 
 Sorting links from Ollama's repo and elsewhere.
 
+<div class="markdown-heading"><h2 class="heading-element">▷ Coding AIs</h2><a id="user-content--coding-ais" class="anchor" aria-label="Permalink: ▷ Coding AIs" href="#-coding-ais"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+- 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
+- ⭐ **[Bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** - Web/Nodejs App Builder
+- [Llama Coder](https://llamacoder.together.ai/) | Code Generator | No Signup | [GitHub](https://github.com/Nutlope/llamacoder)
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Coding AI
+- [Aider](https://aider.chat/) - Terminal Coding AI
+- [Blackbox](https://www.blackbox.ai/) | Coding AI | No Signup
+- [Cline](https://github.com/cline/cline) - Coding AI
+- [Cody](https://sourcegraph.com/cody) - Coding AI
+- [Codacy](https://www.codacy.com/) - Code Fixing AI
+- [CodiumAI](https://www.qodo.ai/) - Coding AI
+- [Codeium](https://codeium.com/) | No Signup | [Live Chat](https://codeium.com/live/general) | [Discord](https://discord.com/invite/3XFf78nAx5)
+- [Composio](https://github.com/ComposioHQ/composio) - Add Tools to Coding AI
+- [continue](https://continue.dev/) - Coding AI
+- [Denigma](https://denigma.app/#demo) | Coding AI | No Signup
+- [Devv](https://devv.ai/) - Coding Search Engine | No Signup
+- [Fragments](https://fragments.e2b.dev/) - App Builder
+- [ImageCook](https://imgcook.com) | Coding AI | No Signup | [GitHub](https://github.com/imgcook/imgcook)
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Run Code Locally | No Signup
+- [Pieces](https://pieces.app/) | Multi-LLM Coding AI | GPT-4 | 4o for Free | No Signup | [Docs](https://docs.pieces.app)
+- [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews
+- [SuperMaven](https://supermaven.com/) | Coding AI | No Signup | [Discord](https://discord.com/invite/QQpqBmQH3w)
+- [Telosys](https://www.telosys.org/) - Code Generator | No Signup
+- [v0](https://v0.dev/) - Text to Site Code
+- [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations | No Signup
+- 
+- 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** | [WebDev Arena](https://web.lmarena.ai/) | [Aider Leaderboards](https://aider.chat/docs/leaderboards/) | [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+
 ### Web & Desktop
 
 - [Open WebUI](https://github.com/open-webui/open-webui)
